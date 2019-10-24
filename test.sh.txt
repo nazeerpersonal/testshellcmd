@@ -1,0 +1,3 @@
+#! /bin/bash
+sudo mkdir dir01 dir02
+ls workspace/test/	
